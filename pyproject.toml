@@ -1,0 +1,13 @@
+[project]
+name = "hello-flask"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "jmarkowski", email = "jmarkowski@opi.org.pl" }
+]
+requires-python = ">=3.14"
+dependencies = [
+    "flask>=3.1.3",
+]
+
